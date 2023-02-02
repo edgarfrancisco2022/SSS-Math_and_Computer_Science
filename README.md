@@ -24,7 +24,7 @@
 ##### 5. All activities must be stopped before 9:00 PM, not doing so will result in failure to fullfil these standards.
 ##### 6. Procrastination will not be tolerated, taking breaks and getting distracted without sufficient reason will result in failure to fulfill these standards.
 ##### 7. Breaks are meant for resting, here is a list of recommended activities for breaks:
-###### > Napping, walking, exercising, eating, socializing, cleaning up, helping out, and relaxing. 
+###### &nbsp; Napping, walking, exercising, eating, socializing, cleaning up, helping out, and relaxing. 
 ##### 8. A sleep journal must be kept in this repository describing what works and what does not work when it comes to improving sleep quality - recommended.
 
 ### Curriculum
