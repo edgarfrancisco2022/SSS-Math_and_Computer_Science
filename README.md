@@ -22,7 +22,7 @@
 ##### 3. Once the curriculum and the materials have been established, adding new content to it will result in failure to fullfil these standards.
 ##### 4. Studying breaks are allowed at any given moment so long as they are not used to use social media, surf the web, or search for new content or content alternatives.
 ##### 5. All activities must be stopped before 9:00 PM, not doing so will result in failure to fullfil these standards.
-##### 6. Day dreaming about future content wlil result in failure to fullfill these standards.
+##### 6. Day dreaming about future content will result in failure to fullfill these standards.
 ##### 7. Procrastination will not be tolerated, taking breaks and getting distracted without sufficient reason will result in failure to fulfill these standards.
 ##### 8. Breaks are meant for resting, here is a list of recommended activities for breaks:
 ###### &nbsp;&nbsp;&nbsp; Napping, walking, exercising, eating, socializing, cleaning up, helping out, and relaxing. 
