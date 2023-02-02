@@ -6,6 +6,6 @@
 #### 2. Jr. Portfolio
 #### 3. Algebra and Trigonometry
 #### 4. Linux
-#### 5. Interview Preparation
+#### 5. Interview Preparation\
 
 ##### First thoughts on how to accomplish these goals
