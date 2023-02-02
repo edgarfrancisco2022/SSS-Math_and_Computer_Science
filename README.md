@@ -9,11 +9,11 @@
 #### 5. Interview Preparation
 #### 6. Sleep health
 
-## Module 1 - February 2 - March 14
+## Module 1 - February 3 - March 14
 ### Scheduling - Define a flexible but consistent schedule
 #### #1 Priority - Java certification - 7:30 AM - 1:30 PM
-#### #2 Priority - Jr. Portfolio - 2:00 PM - 6:30 PM
-#### #3 Priority - Algebra and Trigonometry - Spare time
+#### #2 Priority - Jr. Portfolio - 2:00 PM - 5:00 PM
+#### #3 Priority - Algebra and Trigonometry - 5:00 PM - 6:30 PM + Spare Time
 #### #4 Priority - Sleep health - Spare time
 
 ### Standards Rules
