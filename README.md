@@ -1,5 +1,5 @@
 # SSS - Math and Computer Science
-## Self Studying Standards in Math and Computer Science
+### Self Studying Standards in Math and Computer Science
 
 ### February 2 - July 2
 #### 1. Java OCP 11 certification.
