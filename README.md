@@ -38,7 +38,7 @@
 ##### 2. Memorization of the mind-maps
 ##### 3. Solving 10-20 practice exams
 
-#### Algebra and Trigonometry standards
+#### Algebra and Trigonometry standards - Optional during this module (Spare time)
 ##### 1. Creation of mind-maps for the entire text
 ##### 2. Memorization of all major concepts and formulas
 ##### 3. Solving a sample of the exercises of each chapter of the text
