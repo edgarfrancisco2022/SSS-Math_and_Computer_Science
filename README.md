@@ -28,8 +28,23 @@
 ##### 8. A sleep journal must be kept in this repository describing what works and what does not work when it comes to improving sleep quality - recommended.
 
 ### Curriculum
-#### 1. Boyarsky & Selikoff, OCP Oracle Certified Professional Java SE 11 Developer Complete Study Guide
-#### 2. Stewart, Redlin, & Watson, Precalculus Mathematics for Calculus Seventh Edition
+#### Texts
+##### 1. Boyarsky & Selikoff - OCP Oracle Certified Professional Java SE 11 Developer Complete Study Guide
+##### 2. Stewart, Redlin, & Watson - Precalculus Mathematics for Calculus Seventh Edition
+##### 3. Google
+
+#### Java Certification standards
+##### Creation of mind-maps for the entire text
+##### Memorization of the mind-maps
+##### Solving 20 practice exams
+
+#### Algebra and Trigonometry standards
+##### Creation of mind-maps for the entire text
+##### Memorization of all major concepts and formulas
+##### Solving a sample of the exercises of each chapter of the text
+##### Avoid looking at other texts during this module, in later modules there will be other texts
+
+
 
 
 
