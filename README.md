@@ -19,7 +19,7 @@
 ### Standards Rules
 ##### 1. Web surfing and use of social media outside of spare time will result in failure to fullfil these standards.
 ##### 2. Once the curriculum and the materials have been established, spending time searching for alternatives will result in failure to fulfill these standards.
-##### 3. Once the curriculum and the materials have been established, adding new content will result in failure to fullfil these standards.
+##### 3. Once the curriculum and the materials have been established, adding new content to it will result in failure to fullfil these standards.
 ##### 4. Studying breaks are allowed at any given moment so long as they are not used to use social media, surf the web, or search for new content or content alternatives.
 ##### 5. All activities must be stopped before 9:00 PM, not doing so will result in failure to fullfil these standards.
 ##### 6. Procrastination will not be tolerated, taking breaks and getting distracted without sufficient reason will result in failure to fulfill these standards.
@@ -34,15 +34,15 @@
 ##### 3. Google
 
 #### Java Certification standards
-##### Creation of mind-maps for the entire text
-##### Memorization of the mind-maps
-##### Solving 20 practice exams
+##### 1. Creation of mind-maps for the entire text
+##### 2. Memorization of the mind-maps
+##### 3. Solving 10-20 practice exams
 
 #### Algebra and Trigonometry standards
-##### Creation of mind-maps for the entire text
-##### Memorization of all major concepts and formulas
-##### Solving a sample of the exercises of each chapter of the text
-##### Avoid looking at other texts during this module, in later modules there will be other texts
+##### 1. Creation of mind-maps for the entire text
+##### 2. Memorization of all major concepts and formulas
+##### 3. Solving a sample of the exercises of each chapter of the text
+##### 4. Avoid looking at other texts during this module, in later modules there will be other texts
 
 
 
