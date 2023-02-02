@@ -44,6 +44,9 @@
 ##### 2. Memorization of all major concepts and formulas
 ##### 3. Solving a sample of the exercises of each chapter of the text
 
+#### Jr. Portfolio standards
+##### 1. Building a productivity web application
+
 
 
 
